@@ -1,8 +1,9 @@
-#  Davidope III
-This project is very much inspired by davidope's art
+# Polar Wings
+Created in collaboration with Roy Rosen
 
-It's an experiment, what happens when you rotate a position vector after you convert it to polar coordinates? obviously, it doesn't make a lot of sense, but the results are beautiful.
+This is an experiment with particles simulation and polar coordinates, what happens when you use convert only the "U" and "radius" dimensions to polar and feed it to the position attribute?
 
-<img src="Deform_VOP.png">
+Obviously, it doesn't make sense, but it very interesting to watch
+
 <img src="Images/Node Tree.png">
-<p><img alt = "gif" src="Images/2021_10_12_dvdp_III.gif"></code>
+<img src="Images/2021_10_15_Polar_Wings.png">
